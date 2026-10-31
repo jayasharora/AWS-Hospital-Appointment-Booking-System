@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.git/
+.gitignore
+.dockerignore
+medicare.db
+.pytest_cache/
+tests/__pycache__/
+jmeter/
+aws/
+.DS_Store
